@@ -293,6 +293,7 @@ assert(GetLength("") == 0);
 assert(GetLength("a") == 1);
 assert(GetLength("hola") == 4);
 assert(GetLength("hola mundo") == 10);
+
 ```
 
 Corré los tests:
